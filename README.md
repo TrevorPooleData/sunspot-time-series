@@ -50,7 +50,7 @@ sunspot-time-series/
 
 ---
 
-📚 Key Reference
+## 📚 Key Reference
 Hathaway, D. H. (2015). The Solar Cycle. Living Reviews in Solar Physics, 12, Article 4. https://doi.org/10.1007/lrsp-2015-4
 
 ---
