@@ -31,7 +31,7 @@ sunspot-time-series/
 
 ## 🧪 Methods
 Data Source:
-International Sunspot Number V2.0 from the Royal Observatory of Belgium, Solar Influences Data Analysis Center (SILSO)
+International Sunspot Number V2.0 from the **Royal Observatory of Belgium, Solar Influences Data Analysis Center (SILSO)**
 DOI: 10.24414/qnza-ac80
 Access: https://www.sidc.be/SILSO
 
