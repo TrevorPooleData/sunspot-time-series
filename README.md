@@ -30,15 +30,20 @@ sunspot-time-series/
 ---
 
 ## 🧪 Methods
+Data Source:
+International Sunspot Number V2.0 from the Royal Observatory of Belgium, Solar Influences Data Analysis Center (SILSO)
+DOI: 10.24414/qnza-ac80
+Access: https://www.sidc.be/SILSO
 
-- **Data Source**: SILSO (Royal Observatory of Belgium)  
-  DOI: 10.24414/qnza-ac80
-- **Tools Used**: Python (`pandas`, `statsmodels`, `matplotlib`), Tableau
-- **Techniques**:
-  - Time series decomposition
-  - Forecasting models (ARIMA, Prophet)
-  - Evaluation metrics (RMSE, MAE)
-  - Data quality visualisation
+Tools Used:
+Python (pandas, statsmodels, matplotlib), Tableau
+
+Techniques:
+
+Time series decomposition
+Forecasting models (ARIMA, Prophet)
+Evaluation metrics (RMSE, MAE)
+Data quality visualisation
 
 ---
 
