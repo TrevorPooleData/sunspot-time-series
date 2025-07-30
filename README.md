@@ -36,7 +36,8 @@ DOI: 10.24414/qnza-ac80
 Access: https://www.sidc.be/SILSO
 
 Tools Used:
-Python (pandas, statsmodels, matplotlib), Tableau
+- Python (pandas, statsmodels, matplotlib)
+- Tableau
 
 Techniques:
 - Time series decomposition
