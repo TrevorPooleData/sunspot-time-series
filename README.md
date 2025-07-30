@@ -15,19 +15,15 @@ This project explores long-term solar activity using monthly sunspot data from t
 
 ## 📁 Project Structure
 
-sunspot-time-series/                 # Root folder of your GitHub repository
-│
-├── notebooks/                       # Folder containing Jupyter Notebooks
-│   └── sunspot_analysis.ipynb       # Your main analysis notebook
-│
-├── deliverables/                   # Folder for final outputs
-│   ├── Sunspot_Analysis_Report.docx # Your written report
-│   └── Sunspot_Dashboard.twbx       # Your Tableau workbook
-│
-├── data/                           # Folder for datasets
-│   └── sunspot_data.csv             # The raw sunspot dataset
-│
-└── README.md                        # The file you're currently writing
+sunspot-time-series/
+├── notebooks/
+│   └── sunspot_analysis.ipynb       # Jupyter Notebook with full analysis
+├── deliverables/
+│   ├── Sunspot_Analysis_Report.docx # Final written report
+│   └── Sunspot_Dashboard.twbx       # Tableau workbook for interactive visualisation
+├── data/
+│   └── sunspot_data.csv             # Raw dataset from SILSO (not included if too large)
+└── README.md                        # Project overview
 
 ---
 
