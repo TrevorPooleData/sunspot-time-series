@@ -1,6 +1,3 @@
-# DSPP-Summative-DS-Project
-Data Science Project for BPP Date Science Professional Practice Summative Assessment
-
 # 🌞 Sunspot Time Series Analysis (1749–2025)
 
 This project explores long-term solar activity using monthly sunspot data from the SILSO network. It applies time series analysis and forecasting techniques to investigate cyclical solar patterns and assess how data quality affects model performance.
