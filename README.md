@@ -58,3 +58,13 @@ sunspot-time-series/                 # Root folder of your GitHub repository
    ```bash
    git clone https://github.com/your-username/sunspot-time-series.git
    cd sunspot-time-series
+
+---
+
+📌 License
+This project is for academic and educational purposes.
+
+---
+
+🙋‍♂️ Author
+Trevor Poole
