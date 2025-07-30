@@ -64,10 +64,10 @@ Hathaway, D. H. (2015). The Solar Cycle. Living Reviews in Solar Physics, 12, Ar
 
 ---
 
-📌 License
+## 📌 License
 This project is for academic and educational purposes.
 
 ---
 
-🙋‍♂️ Author
+##🙋‍♂️ Author
 Trevor Poole
