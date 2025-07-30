@@ -15,6 +15,7 @@ This project explores long-term solar activity using monthly sunspot data from t
 
 ## 📁 Project Structure
 
+```
 sunspot-time-series/
 ├── notebooks/
 │   └── sunspot_analysis.ipynb       # Jupyter Notebook with full analysis
@@ -24,6 +25,7 @@ sunspot-time-series/
 ├── data/
 │   └── sunspot_data.csv             # Raw dataset from SILSO (not included if too large)
 └── README.md                        # Project overview
+```
 
 ---
 
