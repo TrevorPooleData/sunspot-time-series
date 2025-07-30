@@ -39,11 +39,10 @@ Tools Used:
 Python (pandas, statsmodels, matplotlib), Tableau
 
 Techniques:
-
-Time series decomposition
-Forecasting models (ARIMA, Prophet)
-Evaluation metrics (RMSE, MAE)
-Data quality visualisation
+- Time series decomposition
+- Forecasting models (ARIMA, Prophet)
+- Evaluation metrics (RMSE, MAE)
+- Data quality visualisation
 
 ---
 
