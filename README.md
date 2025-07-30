@@ -69,5 +69,5 @@ This project is for academic and educational purposes.
 
 ---
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 Trevor Poole
