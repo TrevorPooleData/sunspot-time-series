@@ -17,7 +17,6 @@ sunspot-time-series/
 ├── deliverables/
 │   ├── Sunspot_Analysis_Report.docx # Final written report
 │   └── sunspot_analysis.ipynb       # Jupyter Notebook with full analysis
-
 ├── data/
 │   └── sunspot_data.csv             # Raw dataset from SILSO (not included if too large)
 └── README.md                        # Project overview
