@@ -55,6 +55,7 @@ Techniques:
 ## 📚 References
 - Hathaway, D. H. (2015). The Solar Cycle. Living Reviews in Solar Physics, 12, Article 4. https://doi.org/10.1007/lrsp-2015-4
 - Clette, F., Lefèvre, L., Cagnotti, M., Cortesi, S. and Bulling, A., 2016. The revised sunspot number: assembling all corrections. Solar Physics, 291(9-10), pp.2629–2651.
+- Clette, F. & Lefèvre, L. (2015). SILSO Sunspot Number V2.0. Published by WDC SILSO - Royal Observatory of Belgium.
 
 ---
 
