@@ -58,7 +58,7 @@ Techniques:
 ## References
 - Arlt, R. and Vaquero, J.M., 2020. *Historical sunspot records*. Living Reviews in Solar Physics, 17(1). Available at: [https://link.springer.com/article/10.1007/s41116-020-0023-y](https://link.springer.com/article/10.1007/s41116-020-0023-y) [Accessed 23 Aug. 2025].
 - Clette, F. and Lefèvre, L., 2015. *SILSO Sunspot Number V2.0*. World Data Center SILSO, Royal Observatory of Belgium. Available at: https://doi.org/10.24414/qnza-ac80 [Accessed 23 Aug. 2025].
-- Clette, F., Lefèvre, L., Cagnotti, M., Cortesi, S. and Bulling, A., 2016. The revised sunspot number: assembling all corrections. Solar Physics, 291(9-10), pp.2629–2651.
+- Clette, F., Lefèvre, L., Cagnotti, M., Cortesi, S. and Bulling, A., 2016. The revised sunspot number: assembling all corrections. Solar Physics, 291(9-10), pp.2629–2651. https://link.springer.com/article/10.1007/s11207-016-1014-y [Accessed 23 Aug. 2025]
 - Hathaway, D. H. (2015). The Solar Cycle. Living Reviews in Solar Physics, 12, Article 4. https://doi.org/10.1007/lrsp-2015-4
 
 ---
