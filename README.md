@@ -1,4 +1,4 @@
-# 🌞 Sunspot Time Series Analysis (1700–2024)
+# Sunspot Time Series Analysis (1700–2024)
 
 
 ## Introduction
@@ -7,13 +7,13 @@ Sunspot observations have been systematically recorded since 1700, forming one o
 
 ---
 
-## 📌 Research Question
+## Research Question
 
 **“How can historical sunspot data from 1700 to 2024 be explored and visualised to assess data quality, and how can a model be developed to forecast sunspot activity from 2025 to 2050?**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sunspot-time-series/
@@ -27,7 +27,7 @@ sunspot-time-series/
 
 ---
 
-## 🧪 Methods
+## Methods
 Data Source:
 International Sunspot Number V2.0 from the **Royal Observatory of Belgium, Solar Influences Data Analysis Center (SILSO)**  
 DOI: 10.24414/qnza-ac80  
@@ -48,14 +48,14 @@ Techniques:
 
 ---
 
-## 📊 Deliverables
+## Deliverables
 
-- 📄 Final Report (Word)
-- 🧪 Jupyter Notebook
+- Final Report (Word)
+- Jupyter Notebook
 
 ---
 
-## 📚 References
+## References
 - Arlt, R. and Vaquero, J.M., 2020. *Historical sunspot records*. Living Reviews in Solar Physics, 17(1). Available at: [https://link.springer.com/article/10.1007/s41116-020-0023-y](https://link.springer.com/article/10.1007/s41116-020-0023-y) [Accessed 23 Aug. 2025].
 - Clette, F. and Lefèvre, L., 2015. *SILSO Sunspot Number V2.0*. World Data Center SILSO, Royal Observatory of Belgium. Available at: https://doi.org/10.24414/qnza-ac80 [Accessed 23 Aug. 2025].
 - Clette, F., Lefèvre, L., Cagnotti, M., Cortesi, S. and Bulling, A., 2016. The revised sunspot number: assembling all corrections. Solar Physics, 291(9-10), pp.2629–2651.
@@ -63,7 +63,7 @@ Techniques:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -72,10 +72,10 @@ Techniques:
 
 ---
 
-## 📌 License
+## License
 This project is for academic and educational purposes.
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 Trevor Poole
