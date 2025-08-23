@@ -1,7 +1,5 @@
 # 🌞 Sunspot Time Series Analysis (1749–2025)
 
-How can historical sunspot data from 1700 to 2024 be explored and visualised to assess data quality, and how can a SARIMA model be developed to forecast long-term sunspot activity?
-
 ---
 
 ## 📌 Research Question
