@@ -1,4 +1,4 @@
-# 🌞 Sunspot Time Series Analysis (1749–2025)
+# 🌞 Sunspot Time Series Analysis (1700–2024)
 
 ---
 
