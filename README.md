@@ -14,8 +14,6 @@ This project explores long-term solar activity using yearly sunspot data from th
 
 ```
 sunspot-time-series/
-├── notebooks/
-│   └── 
 ├── deliverables/
 │   ├── Sunspot_Analysis_Report.docx # Final written report
 │   └── sunspot_analysis.ipynb       # Jupyter Notebook with full analysis
