@@ -6,7 +6,7 @@ How can historical sunspot data from 1700 to 2024 be explored and visualised to 
 
 ## 📌 Research Question
 
-**How accurately can long-term sunspot activity be forecasted using historical data from 1700 to 2024, and what impact do data quality and observational inconsistencies have on model performance?**
+**This project explores and visualises the quality of historical sunspot data from 1700 to 2024, and develops a SARIMA model to forecast sunspot activity from 2025 to 2050.**
 
 ---
 
