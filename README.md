@@ -23,6 +23,7 @@ sunspot-time-series/
 ├── data/
 │   └── SN_y_tot_V2.0.csv            # Raw dataset from SILSO (not included if too large)
 └── README.md                        # Project overview
+└── ts-analysis.yml                  # Environment file                 
 ```
 
 ---
